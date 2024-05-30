@@ -5,7 +5,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sião - POC PWA",
+  title: "Sião - PWA",
   description: "PWA application with Next 13",
   generator: "Next.js",
   manifest: "/manifest.json",

@@ -4,8 +4,8 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "PocPWA",
-  "short_name": "PwA",
+  "name": "Sião",
+  "short_name": "Sião",
   "icons": [
     {
       "src": "/icon-192x192.png",
