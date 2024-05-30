@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![image](https://github.com/matheushdsbr/poc-pwa/assets/32910717/6272d4a4-1ae8-4a04-986b-42521b7ac33a)
+![siao-poc-pwa](https://github.com/matheushdsbr/poc-pwa/assets/32910717/0a81fd63-e1db-48d2-87f9-adde3b723063)
 
 ## Getting Started
 
